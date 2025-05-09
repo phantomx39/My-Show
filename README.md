@@ -1,4 +1,5 @@
-# Movie Ticket Booking System-PHP
+#  My SHOW
+#  Movie Ticket Booking System-PHP
 Movie Ticket Booking System, back-end coded with PHP and front-end coded with Bootstrap, CSS, HTML, and Javascript and used MySql in the database.
 
 The Movie Ticket Booking System facilitates the users to enquire about the
@@ -42,7 +43,8 @@ Password:- 123
 
 
 
-##  IMAGES![Screenshot 2025-05-05 141419](https://github.com/user-attachments/assets/4a0aacdc-6eb9-4563-803e-b1b8a24611ff)
+##  IMAGES
+![Screenshot 2025-05-05 141419](https://github.com/user-attachments/assets/4a0aacdc-6eb9-4563-803e-b1b8a24611ff)
 ![Screenshot 2025-05-05 135249](https://github.com/user-attachments/assets/b9505523-8697-4a2e-8b6c-ec2e072b0b0f)
 ![Screenshot 2025-05-05 135051](https://github.com/user-attachments/assets/2678a085-4c12-49cd-abd0-8165127a160f)
 ![Screenshot 2025-05-05 135029](https://github.com/user-attachments/assets/5784202a-3426-4851-893e-60addbbf0bdc)![Screenshot 2025-05-05 132931](https://github.com/user-attachments/assets/89e3f32c-b480-4c16-bba3-9183d45dd8ee)
