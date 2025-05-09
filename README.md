@@ -9,19 +9,24 @@ people to get details of trending films and to get movie tickets in the
 easiest possible way making it simple for all to buy tickets from anytime
 and anywhere.
 
-## Github_theme
 
-[Github_theme](https://aman05382.github.io/movie_ticket_booking_system_php/)
 
 ## Installation
 
 For This Project I used [Xampp](https://www.apachefriends.org/).
+Download and install Xampp 
+run xampp control panel.exe 
+Start apache and Mysql 
+go to admin (Mysql)
 
 ```php
-1) Open PHPMyAdmin
-2) import 'cinema_db.sql'
-3) Open Connection.php and update db_name and password.
-4) Go to admin Folder and Open config.php and update db_name and password.
+1) copy this folder and paste to C/Xampp/htdocs
+2) Open PHPMyAdmin
+3) import 'cinema_db.sql'
+4) Open Connection.php and update db_name and password.
+5) Go to admin Folder and Open config.php and update db_name and password.
+6) configure the port settings if using both Xampp and MySql 
+7) (optional) set host to "localhost:3308" in config.php and connection.php to avoid errors
 ```
 
 ## Usage
@@ -33,11 +38,8 @@ Username:- 123
 Password:- 123
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.![Screenshot 2025-05-05 132830](https://github.com/user-attachments/assets/6f160195-3942-4dc2-add5-a17afa689b4e)
 
 
-Please make sure to update tests as appropriate.
 
 
 ##  IMAGES![Screenshot 2025-05-05 141419](https://github.com/user-attachments/assets/4a0aacdc-6eb9-4563-803e-b1b8a24611ff)
@@ -56,5 +58,11 @@ Please make sure to update tests as appropriate.
 
 
 ## Created By
-[aman05382](https://github.com/aman05382) [RoshanB392](https://github.com/RoshanB392) [Yadav99](https://github.com/Yadav99) [ramtekerohit](https://github.com/ramtekerohit)
+
+Aayush Singh [https://github.com/phantomx39]
+
+
+##Connect with us-
+
+itzaayush2005@gmail.com
 
