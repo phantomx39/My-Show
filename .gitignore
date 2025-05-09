@@ -1,0 +1,26 @@
+# XAMPP specific files
+desktop.ini
+
+# Database files
+*.sql
+
+# Environment files
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Generated QR codes
+qr_codes/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# System files
+.DS_Store
+Thumbs.db 
